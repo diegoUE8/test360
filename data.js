@@ -47,7 +47,7 @@ var APP_DATA = {
           "yaw": -1.58582516111111,
           "pitch": 0.26544857366223873,
           "title": "INFOPOINT",
-          "text": "TESTO"
+          "text": "Esempio di infopoint"
         }
       ]
     },
@@ -152,6 +152,54 @@ var APP_DATA = {
           "pitch": 0.2040984267089918,
           "title": "Title",
           "text": "Text"
+        }
+      ]
+    },
+    {
+      "id": "3-hall-office",
+      "name": "3-hall-office",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
+        }
+      ],
+      "faceSize": 2736,
+      "initialViewParameters": {
+        "yaw": -0.3235661806152539,
+        "pitch": 0.198774530690617,
+        "fov": 1.3365071038314758
+      },
+      "linkHotspots": [],
+      "infoHotspots": [
+        {
+          "yaw": -1.136497983645807,
+          "pitch": 0.39602449398957873,
+          "title": "Title",
+          "text": "Esempio di infopoint"
+        },
+        {
+          "yaw": 1.92923579757087,
+          "pitch": 0.2040984267089918,
+          "title": "Title",
+          "text": "Esempio di infopoint"
         }
       ]
     }
